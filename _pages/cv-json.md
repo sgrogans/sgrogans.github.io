@@ -8,5 +8,5 @@ redirect_from:
   - /cv
 ---
 <div class="cv-download-links">
-  <embed src="{{ base_path }}/files/Grogans_CV_24Aug2026.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="{{ base_path }}/files/Grogans_CV_1Sep2026.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
